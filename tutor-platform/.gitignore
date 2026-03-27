@@ -1,0 +1,26 @@
+tutor-platform-ui/node_modules/
+tutor-platform-ui/build/
+tutor-platform-ui/.env.local
+tutor-platform-ui/.env.development.local
+tutor-platform-ui/.env.test.local
+tutor-platform-ui/.env.production.local
+tutor-platform-ui/npm-debug.log*
+tutor-platform-ui/yarn-debug.log*
+tutor-platform-ui/yarn-error.log*
+
+
+tutor-platform-api/target/
+tutor-platform-api/bin/
+tutor-platform-api/*.log
+tutor-platform-api/.mvn/wrapper/maven-wrapper.jar
+
+# Compiled class files
+tutor-platform-api/**/*.class
+
+tutor-platform-api/logs/
+
+.vscode/
+.idea/
+*.swp
+*.DS_Store
+Thumbs.db
